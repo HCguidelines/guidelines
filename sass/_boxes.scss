@@ -1,3 +1,5 @@
+/* boxes.scss */
+
 .testbox {
     display: inline-block;
     position: absolute;
@@ -5,5 +7,5 @@
     left: 0;
     width: 800px;
     height: 500px;
-    background: #dadada;
+    background: $color-Gray--20;	
 }
