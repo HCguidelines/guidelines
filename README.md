@@ -1,2 +1,2 @@
-HCguideline
-===========
+HC guideline
+============
