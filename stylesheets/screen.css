@@ -513,6 +513,12 @@ th {
   left: 0;
   width: 800px;
   height: 500px;
-  background: #f1f1f1;
+  background: #dddddd;
   padding: 20px;
+}
+
+/* base.scss */
+/* line 3, ../sass/_base.scss */
+body {
+  background: #f1f1f1;
 }
