@@ -5,7 +5,7 @@
     top: 0;
     @include rem( height, 10rem );
     background: $color-hcWarmBlue;
-	@include rem( padding, 4.2rem 0 0 3rem );
+	@include rem( padding, 3rem );
     @include box-sizing( border-box );    
 }
 
