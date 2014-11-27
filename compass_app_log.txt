@@ -20,3 +20,131 @@ Load paths:
 2014-11-26 16:21:32 identical stylesheets/screen.css 
 2014-11-26 16:21:41 overwrite stylesheets/screen.css 
 2014-11-26 16:22:41 overwrite stylesheets/screen.css 
+2014-11-27 09:32:20 overwrite stylesheets/screen.css 
+2014-11-27 09:32:32     error sass/screen.scss (Line 12: File to import not found or unreadable: boxes.
+Load paths:
+  /Users/mdreher/03_Repos/HCguidelines/guidelines/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-11-27 09:32:32 overwrite stylesheets/screen.css 
+2014-11-27 09:32:34     error sass/screen.scss (Line 12: File to import not found or unreadable: boxes.
+Load paths:
+  /Users/mdreher/03_Repos/HCguidelines/guidelines/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-11-27 09:32:34 identical stylesheets/screen.css 
+2014-11-27 09:32:55 overwrite stylesheets/screen.css 
+2014-11-27 09:33:36 overwrite stylesheets/screen.css 
+2014-11-27 09:35:04 overwrite stylesheets/screen.css 
+2014-11-27 09:35:12 overwrite stylesheets/screen.css 
+2014-11-27 09:36:05 overwrite stylesheets/screen.css 
+2014-11-27 09:36:14 overwrite stylesheets/screen.css 
+2014-11-27 09:37:05 identical stylesheets/screen.css 
+2014-11-27 09:40:15 overwrite stylesheets/screen.css 
+2014-11-27 09:41:07 overwrite stylesheets/screen.css 
+2014-11-27 09:41:26 overwrite stylesheets/screen.css 
+2014-11-27 09:43:14 overwrite stylesheets/screen.css 
+2014-11-27 09:44:15 overwrite stylesheets/screen.css 
+2014-11-27 09:49:25 overwrite stylesheets/screen.css 
+2014-11-27 09:49:37 overwrite stylesheets/screen.css 
+2014-11-27 09:49:47 overwrite stylesheets/screen.css 
+2014-11-27 09:50:54 overwrite stylesheets/screen.css 
+2014-11-27 09:51:30 overwrite stylesheets/screen.css 
+2014-11-27 09:52:50 overwrite stylesheets/screen.css 
+2014-11-27 09:53:30 overwrite stylesheets/screen.css 
+2014-11-27 09:54:37 overwrite stylesheets/screen.css 
+2014-11-27 09:54:49 overwrite stylesheets/screen.css 
+2014-11-27 09:55:02 overwrite stylesheets/screen.css 
+2014-11-27 09:56:05 overwrite stylesheets/screen.css 
+2014-11-27 09:56:14 overwrite stylesheets/screen.css 
+2014-11-27 09:56:45 overwrite stylesheets/screen.css 
+2014-11-27 09:56:53 overwrite stylesheets/screen.css 
+2014-11-27 09:57:04 overwrite stylesheets/screen.css 
+2014-11-27 09:57:48 overwrite stylesheets/screen.css 
+2014-11-27 09:58:12 overwrite stylesheets/screen.css 
+2014-11-27 09:58:31 overwrite stylesheets/screen.css 
+2014-11-27 09:58:56 overwrite stylesheets/screen.css 
+2014-11-27 09:59:05 overwrite stylesheets/screen.css 
+2014-11-27 09:59:24 overwrite stylesheets/screen.css 
+2014-11-27 09:59:39 overwrite stylesheets/screen.css 
+2014-11-27 09:59:50 overwrite stylesheets/screen.css 
+2014-11-27 10:00:00 overwrite stylesheets/screen.css 
+2014-11-27 10:00:14 overwrite stylesheets/screen.css 
+2014-11-27 10:00:20 overwrite stylesheets/screen.css 
+2014-11-27 10:00:25 identical stylesheets/screen.css 
+2014-11-27 10:00:31 overwrite stylesheets/screen.css 
+2014-11-27 10:00:37 overwrite stylesheets/screen.css 
+2014-11-27 10:00:51 overwrite stylesheets/screen.css 
+2014-11-27 10:12:03 identical stylesheets/screen.css 
+2014-11-27 10:15:01 overwrite stylesheets/screen.css 
+2014-11-27 10:17:39 overwrite stylesheets/screen.css 
+2014-11-27 10:17:46 overwrite stylesheets/screen.css 
+2014-11-27 10:18:24 overwrite stylesheets/screen.css 
+2014-11-27 10:19:00 overwrite stylesheets/screen.css 
+2014-11-27 10:19:42 overwrite stylesheets/screen.css 
+2014-11-27 10:20:10 overwrite stylesheets/screen.css 
+2014-11-27 10:20:37 overwrite stylesheets/screen.css 
+2014-11-27 10:21:28 overwrite stylesheets/screen.css 
+2014-11-27 10:21:59 overwrite stylesheets/screen.css 
+2014-11-27 10:22:18 overwrite stylesheets/screen.css 
+2014-11-27 10:22:42 overwrite stylesheets/screen.css 
+2014-11-27 10:26:13 overwrite stylesheets/screen.css 
+2014-11-27 10:27:12 overwrite stylesheets/screen.css 
+2014-11-27 10:27:16 overwrite stylesheets/screen.css 
+2014-11-27 10:27:38 overwrite stylesheets/screen.css 
+2014-11-27 10:28:41 overwrite stylesheets/screen.css 
+2014-11-27 10:50:55 overwrite stylesheets/screen.css 
+2014-11-27 10:51:39 overwrite stylesheets/screen.css 
+2014-11-27 10:52:56 overwrite stylesheets/screen.css 
+2014-11-27 10:53:16 overwrite stylesheets/screen.css 
+2014-11-27 10:54:33 identical stylesheets/screen.css 
+2014-11-27 10:54:55     error sass/screen.scss (Line 12 of sass/_menu.scss: Invalid CSS after "...   height: 100%": expected ";", was ":")
+2014-11-27 10:54:55 overwrite stylesheets/screen.css 
+2014-11-27 10:54:59 overwrite stylesheets/screen.css 
+2014-11-27 11:00:55     error sass/screen.scss (Line 14 of sass/_base.scss: Undefined variable: "$tablet".)
+2014-11-27 11:00:55 overwrite stylesheets/screen.css 
+2014-11-27 11:01:38 overwrite stylesheets/screen.css 
+2014-11-27 11:44:29 overwrite stylesheets/screen.css 
+2014-11-27 11:44:59 overwrite stylesheets/screen.css 
+2014-11-27 11:45:21 overwrite stylesheets/screen.css 
+2014-11-27 11:45:53 overwrite stylesheets/screen.css 
+2014-11-27 11:46:19 overwrite stylesheets/screen.css 
+2014-11-27 11:46:28 overwrite stylesheets/screen.css 
+2014-11-27 11:46:44 overwrite stylesheets/screen.css 
+2014-11-27 11:52:31 overwrite stylesheets/screen.css 
+2014-11-27 11:53:05 overwrite stylesheets/screen.css 
+2014-11-27 11:55:21 overwrite stylesheets/screen.css 
+2014-11-27 15:40:38 overwrite stylesheets/screen.css 
+2014-11-27 15:40:51 overwrite stylesheets/screen.css 
+2014-11-27 15:42:48 overwrite stylesheets/screen.css 
+2014-11-27 15:42:56 overwrite stylesheets/screen.css 
+2014-11-27 15:43:19 overwrite stylesheets/screen.css 
+2014-11-27 15:44:16 overwrite stylesheets/screen.css 
+2014-11-27 15:44:42 overwrite stylesheets/screen.css 
+2014-11-27 15:44:48 overwrite stylesheets/screen.css 
+2014-11-27 15:45:08 overwrite stylesheets/screen.css 
+2014-11-27 15:45:33 overwrite stylesheets/screen.css 
+2014-11-27 15:45:46 overwrite stylesheets/screen.css 
+2014-11-27 15:45:54 overwrite stylesheets/screen.css 
+2014-11-27 15:46:03 overwrite stylesheets/screen.css 
+2014-11-27 15:46:15 overwrite stylesheets/screen.css 
+2014-11-27 15:46:24 overwrite stylesheets/screen.css 
+2014-11-27 15:46:50 overwrite stylesheets/screen.css 
+2014-11-27 15:48:43 overwrite stylesheets/screen.css 
+2014-11-27 15:48:55 identical stylesheets/screen.css 

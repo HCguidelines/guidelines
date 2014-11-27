@@ -1,0 +1,16 @@
+/* menu.scss */
+
+.menu {
+	position: relative;
+	width: 100%;
+	float: left;
+	@include rem( padding, 3rem );
+    @include box-sizing( border-box );	
+	background: #ccc;
+
+    @media screen and (min-width: $tablet) {    
+    	position: fixed;
+        @include rem( width, 12rem );
+        height: 100%;
+    } 	
+}

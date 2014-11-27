@@ -1,0 +1,33 @@
+/* lib_typography.scss */
+
+$font-size-xl: 3.7rem; // 37px
+$font-size-l: 2.5rem; // 25px
+$font-size-m: 1.8rem; // 18px
+$font-size-s: 1.6rem; // 16px
+$font-size-xs: 1.5rem; // 15px
+$font-size-xxs: 1.1rem; // 11px
+
+$font-family-primary: OpenSans, sans-serif;
+$font-family-primary--light: OpenSans-Light, sans-serif;
+
+@font-face {
+	font-family: 'OpenSans-Light';
+    src:url('../fonts/OpenSans-Light.eot');
+    src:url('../fonts/OpenSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/OpenSans-Light.woff') format('woff'),
+        url('../fonts/OpenSans-Light.ttf') format('truetype'),
+        url('../fonts/OpenSans-Light.svg#OpenSans-Light') format('svg');	
+	font-weight: lighter;
+	font-style: normal;	
+}
+
+@font-face {
+	font-family: 'OpenSans';
+    src:url('../fonts/OpenSans-Regular.eot');
+    src:url('../fonts/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/OpenSans-Regular.woff') format('woff'),
+        url('../fonts/OpenSans-Regular.ttf') format('truetype'),
+        url('../fonts/OpenSans-Regular.svg#OpenSans') format('svg');	
+	font-weight: normal;
+	font-style: normal;
+}

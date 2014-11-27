@@ -1,5 +1,33 @@
 /* base.scss */
 
 body {
-    background: $color-Gray--20;	
+    background: $color-Gray--20;
+	font-family: $font-family-primary;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale; 	    	
 }
+
+
+/*----- Breakpoints -----*/
+
+$tablet: 768px;
+$desktop: 1024px;
+
+
+
+
+
+
+.content-wrapper {
+	width: 100%;
+	float: left;
+
+    @media screen and (min-width: $tablet) {    
+        @include rem( padding-left, 12rem );
+    	@include box-sizing( border-box );        
+    } 
+}
+
+
+
+

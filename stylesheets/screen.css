@@ -504,21 +504,103 @@ th {
 }
 
 /* lib_colors.scss */
-/* boxes.scss */
-/* line 3, ../sass/_boxes.scss */
-.testbox {
-  display: inline-block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 800px;
-  height: 500px;
-  background: #dddddd;
-  padding: 20px;
+/* mixins.scss */
+/*----- Unit Transform -----*/
+/** this should be set to whatever value was set for html element */
+/* REM/PX mixin function
+   use for converting rems to pixel fallbacks, and the other way round
+   Credits:
+   - http://hugogiraudel.com/2013/03/18/ultimate-rem-mixin/
+   - http://codepen.io/thejameskyle/pen/JmBjc
+
+   Uses global $root-font-size;
+*/
+/*----- Border-Box -----*/
+/* lib_typography.scss */
+@font-face {
+  font-family: 'OpenSans-Light';
+  src: url("../fonts/OpenSans-Light.eot");
+  src: url("../fonts/OpenSans-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans-Light.woff") format("woff"), url("../fonts/OpenSans-Light.ttf") format("truetype"), url("../fonts/OpenSans-Light.svg#OpenSans-Light") format("svg");
+  font-weight: lighter;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url("../fonts/OpenSans-Regular.eot");
+  src: url("../fonts/OpenSans-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/OpenSans-Regular.woff") format("woff"), url("../fonts/OpenSans-Regular.ttf") format("truetype"), url("../fonts/OpenSans-Regular.svg#OpenSans") format("svg");
+  font-weight: normal;
+  font-style: normal;
 }
 
 /* base.scss */
 /* line 3, ../sass/_base.scss */
 body {
   background: #f1f1f1;
+  font-family: OpenSans, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*----- Breakpoints -----*/
+/* line 21, ../sass/_base.scss */
+.content-wrapper {
+  width: 100%;
+  float: left;
+}
+@media screen and (min-width: 768px) {
+  /* line 21, ../sass/_base.scss */
+  .content-wrapper {
+    padding-left: 120px;
+    padding-left: 12rem;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+}
+
+/* header.scss */
+/* line 3, ../sass/_header.scss */
+.header {
+  position: relative;
+  top: 0;
+  height: 100px;
+  height: 10rem;
+  background: #0058a3;
+  padding: 42px 0 0 30px;
+  padding: 4.2rem 0 0 3rem;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* line 12, ../sass/_header.scss */
+.header__headline {
+  color: white;
+  font-family: OpenSans-Light, sans-serif;
+  font-size: 25px;
+  font-size: 2.5rem;
+}
+
+/* menu.scss */
+/* line 3, ../sass/_menu.scss */
+.menu {
+  position: relative;
+  width: 100%;
+  float: left;
+  padding: 30px;
+  padding: 3rem;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: #ccc;
+}
+@media screen and (min-width: 768px) {
+  /* line 3, ../sass/_menu.scss */
+  .menu {
+    position: fixed;
+    width: 120px;
+    width: 12rem;
+    height: 100%;
+  }
 }

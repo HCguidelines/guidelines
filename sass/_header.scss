@@ -1,0 +1,16 @@
+/* header.scss */
+
+.header {
+	position: relative;
+    top: 0;
+    @include rem( height, 10rem );
+    background: $color-hcWarmBlue;
+	@include rem( padding, 4.2rem 0 0 3rem );
+    @include box-sizing( border-box );    
+}
+
+.header__headline {
+	color: $color-hcWhite;
+	font-family: $font-family-primary--light;
+	@include rem( font-size, $font-size-l );
+}
